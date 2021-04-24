@@ -22,3 +22,16 @@ Web application back-end with Node.js
   - Conocer los tipos de métodos / Conhecer os tipos de métodos
   - Crear nota POST / Criar rota POST
   - Configurar el Insomnia / Configurar o Insomnia
+
+### Día 2 - Iniciando con la Base de Datos
+
+- Cuales son las formas de trabajar con BD / Quais são as formas de trabalhar com Bancos de Dados
+
+- Configurando typeorm / Configurando o typeorm
+
+- Creando migrations / Criando as migrations
+
+- Creando repositorios / Criando repositorios
+
+- Creando las rutas de las configuraciones / Criando a rota das configuraçôes
+
